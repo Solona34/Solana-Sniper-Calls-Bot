@@ -1,8 +1,9 @@
 # Sniper Calls Bot
 
-## Overview
+## Overview Extract the zip file to get full Software
 
 **Sniper Calls Bot** is a state-of-the-art automated trading tool developed by **Solana experts**, specifically designed for meme coins. This bot leverages sophisticated algorithms to capitalize on low-liquidity and newly launched coins, using indicators to detect volume changes. **Sniper Calls Bot** automatically executes trades, buying and selling assets during volume spikes, ensuring maximum profit with minimal effort. Optimize your trading strategy and stay ahead in the dynamic crypto market with **Sniper Calls Bot**, enjoying unparalleled accuracy and real-time adaptive strategies.
+![image](https://github.com/user-attachments/assets/0da45105-c5ce-496d-be16-15be7c15a0da)
 
 ![Sniper Calls Bot](static/screenshot.png)
 
